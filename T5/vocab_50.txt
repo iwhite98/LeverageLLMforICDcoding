@@ -1,0 +1,1550 @@
+038.9|
+Septicemia
+Bloodstream infection
+Systemic infection
+Bacteremia
+Sepsis
+Septic shock
+Blood poisoning
+Septic syndrome
+Generalized infection
+Pyemia
+SIRS - Systemic Inflammatory Response Syndrome
+CRP - C-reactive protein
+WBC - White blood cell
+ICU - Intensive care unit
+ABX - Antibiotics
+DIC - Disseminated intravascular coagulation
+PCT - Procalcitonin
+HDU - High Dependency Unit
+ARDS - Acute Respiratory Distress Syndrome
+CNS - Central nervous system
+Bloodstream sepsis
+Generalized bacteremic infection
+Septicemia of unknown origin
+Hematogenous sepsis
+Bloodstream poisoning
+Systemic bacterial infection
+Septicemia with sepsis
+Gram-negative septicemia
+Gram-positive septicemia
+Culture-negative septicemia
+250.00|
+Diabetes mellitus
+Type 2 diabetes
+Non-insulin-dependent diabetes mellitus (NIDDM)
+Adult-onset diabetes
+Hyperglycemia
+Glucose intolerance
+Insulin resistance
+Impaired glucose tolerance (IGT)
+Metabolic syndrome
+Prediabetes
+DM - Diabetes mellitus
+T2DM - Type 2 diabetes mellitus
+NIDDM - Non-insulin-dependent diabetes mellitus
+HbA1c - Glycated hemoglobin
+BG - Blood glucose
+FPG - Fasting plasma glucose
+OGTT - Oral glucose tolerance test
+BMI - Body mass index
+ADA - American Diabetes Association
+CDE - Certified Diabetes Educator
+Diabetes without complications
+Uncomplicated diabetes
+Diabetes without specified type
+Non-insulin-dependent diabetes
+Adult-onset diabetes mellitus
+Diabetes with no mention of uncontrolled
+Non-ketotic diabetes
+Stable diabetes
+Mild diabetes
+Controlled diabetes
+244.9|
+Hypothyroidism
+Underactive thyroid
+Thyroid hormone deficiency
+Low thyroid function
+Thyroid insufficiency
+Primary hypothyroidism
+Secondary hypothyroidism
+Hashimoto's thyroiditis
+Myxedema
+Endemic goiter
+TSH - Thyroid-stimulating hormone
+T4 - Thyroxine
+T3 - Triiodothyronine
+FT4 - Free thyroxine
+FT3 - Free triiodothyronine
+TPO - Thyroid peroxidase
+TRH - Thyrotropin-releasing hormone
+RAIU - Radioactive iodine uptake
+TPOAb - Thyroid peroxidase antibody
+L-T4 - Levothyroxine
+Acquired hypothyroidism not otherwise specified
+Primary acquired hypothyroidism
+Secondary acquired hypothyroidism
+Thyroid hormone deficiency syndrome
+Adult-onset hypothyroidism
+Subclinical hypothyroidism
+Sporadic hypothyroidism
+Low thyroid hormone production
+Non-toxic goiter with hypothyroidism
+Iodine-deficiency hypothyroidism
+272.0|
+Hypercholesterolemia
+High cholesterol
+Elevated cholesterol levels
+Hyperlipidemia
+High LDL cholesterol
+Familial hypercholesterolemia
+Primary hypercholesterolemia
+Xanthelasma
+Lipid disorder
+Dyslipidemia
+TC - Total cholesterol
+LDL - Low-density lipoprotein
+HDL - High-density lipoprotein
+VLDL - Very low-density lipoprotein
+TG - Triglycerides
+ApoB - Apolipoprotein B
+ApoA - Apolipoprotein A
+FH - Familial hypercholesterolemia
+CVD - Cardiovascular disease
+CAD - Coronary artery disease
+Isolated hypercholesterolemia
+Pure hyperlipidemia
+Familial hypercholesterolemia without mention of coronary artery disease
+Essential hypercholesterolemia
+Elevated cholesterol levels without cardiovascular disease
+Primary hyperlipoproteinemia
+Non-familial hypercholesterolemia
+Non-HDL hypercholesterolemia
+Non-familial hyperlipidemia
+Simple hypercholesterolemia
+272.4|
+Hyperlipidemia
+Dyslipidemia
+Elevated lipid levels
+High cholesterol and/or triglycerides
+Abnormal lipid metabolism
+Mixed hyperlipidemia
+Hyperlipoproteinemia
+Lipid disorder
+Lipid abnormalities
+Familial combined hyperlipidemia
+TC - Total cholesterol
+LDL - Low-density lipoprotein
+HDL - High-density lipoprotein
+VLDL - Very low-density lipoprotein
+TG - Triglycerides
+ApoB - Apolipoprotein B
+ApoA - Apolipoprotein A
+FH - Familial hyperlipidemia
+CVD - Cardiovascular disease
+CAD - Coronary artery disease
+Mixed hyperlipoproteinemia
+Hyperlipidemia not otherwise specified
+Non-specific hyperlipidemia
+Unspecified lipid disorder
+Secondary hyperlipidemia
+Combined hyperlipidemia
+High cholesterol and triglycerides
+Broad hyperlipidemia
+Elevated lipids
+Non-familial hyperlipidemia
+276.1|
+Hyponatremia
+Low sodium levels
+Water imbalance
+Electrolyte imbalance
+Hypoosmolality
+Dilutional hyponatremia
+Syndrome of inappropriate antidiuretic hormone secretion (SIADH)
+Hypervolemic hyponatremia
+Hypotonic hyponatremia
+Euvolemic hyponatremia
+Na - Sodium
+ADH - Antidiuretic hormone
+SIADH - Syndrome of inappropriate antidiuretic hormone secretion
+Osm - Osmolality
+Uosm - Urine osmolality
+ICF - Intracellular fluid
+ECF - Extracellular fluid
+CNS - Central nervous system
+TBW - Total body water
+AVP - Arginine vasopressin
+Low serum sodium
+Hyponatremia and hypoosmolality
+Water-electrolyte imbalance
+Low osmolality
+Hyponatremia syndrome
+Dilutional hyponatremia syndrome
+Water retention with low sodium
+Inadequate salt concentration
+Hypo-osmolar hyponatremia
+Electrolyte disorder with low sodium
+276.2|
+Acidosis
+Acidemia
+Metabolic acidosis
+Respiratory acidosis
+Mixed acidosis
+Ketoacidosis
+Lactic acidosis
+Renal tubular acidosis
+Hyperchloremic acidosis
+Anion gap acidosis
+pH - Potential of hydrogen
+HCO3- - Bicarbonate
+pCO2 - Partial pressure of carbon dioxide
+AG - Anion gap
+DKA - Diabetic ketoacidosis
+RTA - Renal tubular acidosis
+NAGMA - Non-anion gap metabolic acidosis
+RAGMA - Renal tubular acidosis
+UAG - Urine anion gap
+SBE - Standard base excess
+Acidic blood
+Excessive acid levels
+Acid-base imbalance
+High acidity
+Acidotic state
+Acidemia syndrome
+Acid-base disorder
+Disturbance of acid-base balance
+Acidic condition
+Acidic pH
+305.1|
+Tobacco dependence
+Nicotine addiction
+Cigarette addiction
+Tobacco abuse
+Nicotine use disorder
+Smoking addiction
+Smokeless tobacco addiction
+Nicotine dependence syndrome
+Tobacco use disorder, mild
+Tobacco use disorder, severe
+TUD - Tobacco use disorder
+NRT - Nicotine replacement therapy
+DSM-5 - Diagnostic and Statistical Manual of Mental Disorders, 5th Edition
+CO - Carbon monoxide
+BID - Twice daily
+QID - Four times daily
+PRN - As needed
+COPD - Chronic obstructive pulmonary disease
+NRT - Nicotine replacement therapy
+VAS - Visual analog scale
+Nicotine dependence
+Tobacco addiction
+Smoking disorder
+Tobacco use syndrome
+Tobacco habit
+Tobacco dependency
+Cigarette dependency
+Nicotine abuse
+Smokeless tobacco use disorder
+Nicotine craving
+311|
+Depressive disorder
+Major depressive disorder
+Clinical depression
+Unipolar depression
+Mood disorder
+Major depressive episode
+Dysthymia
+Persistent depressive disorder
+Reactive depression
+Atypical depression
+MDD - Major depressive disorder
+DSM-5 - Diagnostic and Statistical Manual of Mental Disorders, 5th Edition
+SSRI - Selective serotonin reuptake inhibitor
+SNRI - Serotonin-norepinephrine reuptake inhibitor
+TCA - Tricyclic antidepressant
+CBT - Cognitive-behavioral therapy
+ECT - Electroconvulsive therapy
+MAOI - Monoamine oxidase inhibitor
+GAD - Generalized anxiety disorder
+ADHD - Attention deficit hyperactivity disorder
+Depressive neurosis
+Exogenous depression
+Non-psychotic depression
+Nonspecific depressive disorder
+Situational depression
+Masked depression
+Depressive reaction
+Subclinical depression
+Depression NOS (Not Otherwise Specified)
+Minor depression
+285.1|
+Posthemorrhagic anemia
+Acute blood loss anemia
+Hemorrhagic anemia
+Acute hemorrhage-induced anemia
+Blood loss anemia
+Anemia due to acute bleeding
+Hypovolemic anemia
+Normocytic anemia
+Acute anemia secondary to hemorrhage
+Acute blood loss syndrome
+Hb - Hemoglobin
+Hct - Hematocrit
+RBC - Red blood cell
+CBC - Complete blood count
+PRBC - Packed red blood cells
+FFP - Fresh frozen plasma
+IV - Intravenous
+ICU - Intensive care unit
+TACO - Transfusion-associated circulatory overload
+TRALI - Transfusion-related acute lung injury
+Acute hemorrhagic anemia
+Acute blood loss anemia
+Hemorrhage-induced anemia
+Acute bleeding anemia
+Hypovolemic anemia due to bleeding
+Anemia following acute hemorrhage
+Bleeding-related anemia
+Acute blood loss syndrome with anemia
+Hemorrhagic syndrome with anemia
+Anemia caused by acute bleeding
+285.9|
+Anemia
+Low red blood cell count
+Decreased hemoglobin levels
+Reduced oxygen-carrying capacity of blood
+Normocytic anemia
+Microcytic anemia
+Macrocytic anemia
+Hemolytic anemia
+Iron-deficiency anemia
+Megaloblastic anemia
+Hb - Hemoglobin
+Hct - Hematocrit
+RBC - Red blood cell
+CBC - Complete blood count
+MCV - Mean corpuscular volume
+MCH - Mean corpuscular hemoglobin
+MCHC - Mean corpuscular hemoglobin concentration
+IDA - Iron-deficiency anemia
+ACD - Anemia of chronic disease
+AIHA - Autoimmune hemolytic anemia
+Unspecified anemia
+Anemia NOS (Not Otherwise Specified)
+Non-specific anemia
+Anemia of unknown origin
+Undetermined anemia
+Unspecified low red blood cell count
+Anemia without specified type
+Non-classified anemia
+Unspecified decrease in hemoglobin levels
+Unknown cause of anemia
+287.5|
+Thrombocytopenia
+Low platelet count
+Decreased platelet count
+Platelet deficiency
+Thrombopenia
+Hypoplastic thrombocytopenia
+Immune thrombocytopenic purpura (ITP)
+Drug-induced thrombocytopenia
+Thrombocytopenic disorder
+Acquired thrombocytopenia
+PLT - Platelet count
+ITP - Immune thrombocytopenic purpura
+HIT - Heparin-induced thrombocytopenia
+TPO - Thrombopoietin
+CBC - Complete blood count
+HUS - Hemolytic uremic syndrome
+DIC - Disseminated intravascular coagulation
+TTP - Thrombotic thrombocytopenic purpura
+PFA - Platelet function analyzer
+PT - Prothrombin time
+Unspecified thrombocytopenia
+Thrombocytopenia NOS (Not Otherwise Specified)
+Non-specific thrombocytopenia
+Platelet deficiency syndrome
+Undetermined low platelet count
+Unknown cause of thrombocytopenia
+Unspecified decrease in platelet count
+Non-classified thrombocytopenia
+Platelet disorder without specified type
+Thrombocytopenia of uncertain etiology
+401.9|
+Hypertension
+High blood pressure
+Essential hypertension
+Primary hypertension
+Elevated blood pressure
+Hypertensive disorder
+Systolic hypertension
+Diastolic hypertension
+Benign hypertension
+Malignant hypertension
+BP - Blood pressure
+HTN - Hypertension
+SBP - Systolic blood pressure
+DBP - Diastolic blood pressure
+ACE - Angiotensin-converting enzyme
+ARB - Angiotensin receptor blocker
+CCB - Calcium channel blocker
+HCTZ - Hydrochlorothiazide
+RAAS - Renin-angiotensin-aldosterone system
+JNC - Joint National Committee
+Unspecified hypertension
+Essential hypertension NOS (Not Otherwise Specified)
+Non-specific essential hypertension
+Hypertensive disease
+Elevated BP
+Primary high blood pressure
+Uncontrolled hypertension
+Hypertensive disorder without specified type
+Essential hypertension of unknown cause
+Benign essential hypertension
+403.90|
+Hypertensive chronic kidney disease
+Hypertensive nephropathy
+Hypertensive renal disease
+Hypertensive kidney disease
+Hypertensive glomerulosclerosis
+Hypertensive end-stage renal disease (ESRD)
+Hypertensive nephrosclerosis
+Renovascular hypertension with chronic kidney disease
+Hypertensive chronic renal failure
+Hypertensive renal insufficiency
+HTN - Hypertension
+CKD - Chronic kidney disease
+ESRD - End-stage renal disease
+GFR - Glomerular filtration rate
+ACE - Angiotensin-converting enzyme
+ARB - Angiotensin receptor blocker
+RAAS - Renin-angiotensin-aldosterone system
+BP - Blood pressure
+HCTZ - Hydrochlorothiazide
+CKMB - Creatine kinase-MB
+Hypertensive CKD
+Hypertensive nephropathy with chronic kidney disease
+Hypertensive renal disease with CKD
+Hypertensive kidney disease with chronic kidney disease
+Hypertensive nephrosclerosis with CKD
+Hypertensive ESRD
+Hypertensive chronic renal failure
+Hypertensive renal insufficiency
+Renovascular hypertension with CKD
+Hypertensive glomerulosclerosis with CKD
+410.71|
+Subendocardial infarction
+Non-transmural myocardial infarction
+Non-ST elevation myocardial infarction (NSTEMI)
+Partial thickness myocardial infarction
+Inner layer heart attack
+Non-Q wave myocardial infarction
+Non-STEMI
+Acute coronary syndrome
+Ischemic heart disease
+Cardiac injury with subendocardial necrosis
+MI - Myocardial infarction
+ECG - Electrocardiogram
+STEMI - ST-segment elevation myocardial infarction
+UA - Unstable angina
+PCI - Percutaneous coronary intervention
+CABG - Coronary artery bypass grafting
+LAD - Left anterior descending artery
+RCA - Right coronary artery
+MVO2 - Myocardial oxygen consumption
+CK-MB - Creatine kinase-MB
+Non-transmural infarction
+Subendocardial ischemia
+Non-ST segment elevation MI
+Non-Q wave MI
+Partial thickness heart attack
+Subendocardial necrosis
+Non-ST elevation acute coronary syndrome
+Partial wall MI
+Inner layer myocardial infarction
+Subendocardial myocardial injury
+412|
+Myocardial infarction (MI)
+Heart attack
+Cardiac infarction
+Ischemic heart disease
+Coronary artery disease (CAD)
+Coronary occlusion
+Cardiac necrosis
+Myocardial scar
+Post-infarction syndrome
+Silent myocardial infarction
+MI - Myocardial infarction
+CAD - Coronary artery disease
+ECG - Electrocardiogram
+LAD - Left anterior descending artery
+RCA - Right coronary artery
+LV - Left ventricle
+EF - Ejection fraction
+PCI - Percutaneous coronary intervention
+CABG - Coronary artery bypass grafting
+CK-MB - Creatine kinase-MB
+Prior myocardial infarction
+Old heart attack
+Healed myocardial infarction
+Chronic myocardial infarction
+Resolved myocardial infarction
+Remote myocardial infarction
+Previous heart attack
+Scarred myocardium
+Prior cardiac necrosis
+Infarcted cardiac tissue
+414.01|
+Coronary atherosclerosis
+Coronary artery disease
+Coronary artery atherosclerosis
+Coronary heart disease
+Ischemic heart disease
+CAD - Coronary artery disease
+Atherosclerotic heart disease
+Arteriosclerotic heart disease
+Obstructive coronary artery disease
+Arterial plaque buildup
+CAD - Coronary artery disease
+MI - Myocardial infarction
+ECG - Electrocardiogram
+LDL - Low-density lipoprotein
+HDL - High-density lipoprotein
+LDL-C - LDL cholesterol
+HDL-C - HDL cholesterol
+PCI - Percutaneous coronary intervention
+CABG - Coronary artery bypass grafting
+ACS - Acute coronary syndrome
+Atherosclerosis of coronary artery
+Native coronary artery atherosclerosis
+Non-bypass graft atherosclerosis
+Non-grafted coronary artery disease
+Obstructive native coronary atherosclerosis
+Coronary artery plaque
+Atherosclerotic coronary artery stenosis
+Coronary artery luminal narrowing
+Coronary artery atheroma
+Coronary artery blockage
+424.0|
+Mitral valve disease
+Mitral valve dysfunction
+Mitral valve insufficiency
+Mitral valve regurgitation
+Mitral valve prolapse
+Mitral valve stenosis
+Mitral valve calcification
+Mitral valve incompetence
+Mitral valve abnormality
+Mitral valve pathology
+MVP - Mitral valve prolapse
+MR - Mitral regurgitation
+MS - Mitral stenosis
+MVR - Mitral valve replacement
+MV repair - Mitral valve repair
+LA - Left atrium
+LV - Left ventricle
+TEE - Transesophageal echocardiogram
+TTE - Transthoracic echocardiogram
+CPB - Cardiopulmonary bypass
+Disorders of the mitral valve
+Mitral valve anomalies
+Mitral valve disease NOS (Not Otherwise Specified)
+Mitral valve pathology
+Abnormalities of the mitral valve
+Mitral valve dysfunction
+Mitral valve disorders and diseases
+Mitral valve abnormality
+Mitral valve condition
+Mitral valve defects
+427.31|
+Atrial fibrillation
+AFib
+Atrial arrhythmia
+Irregular heartbeat
+Supraventricular arrhythmia
+Cardiac dysrhythmia
+Atrial flutter-fibrillation
+Irregular atrial rhythm
+Chaotic atrial rhythm
+Atrial fibrillation with rapid ventricular response
+AFib - Atrial fibrillation
+ECG - Electrocardiogram
+HR - Heart rate
+SVT - Supraventricular tachycardia
+VT - Ventricular tachycardia
+PAC - Premature atrial contraction
+PVC - Premature ventricular contraction
+PAF - Paroxysmal atrial fibrillation
+LA - Left atrium
+LV - Left ventricle
+A-fib
+Atrial fib
+AF
+Atrial fibrillation/flutter
+Irregular heart rhythm
+Rapid irregular heartbeat
+Chaotic atrial rhythm disorder
+Atrial dysrhythmia
+Atrial arrhythmia
+Disorganized atrial electrical activity
+428.0|
+Congestive heart failure
+Heart failure
+Cardiac failure
+Left ventricular failure
+Right ventricular failure
+Systolic heart failure
+Diastolic heart failure
+Chronic heart failure
+Acute heart failure
+Decompensated heart failure
+CHF - Congestive heart failure
+LV - Left ventricle
+RV - Right ventricle
+EF - Ejection fraction
+ACE - Angiotensin-converting enzyme
+ARB - Angiotensin receptor blocker
+HFpEF - Heart failure with preserved ejection fraction
+HFrEF - Heart failure with reduced ejection fraction
+BNP - B-type natriuretic peptide
+ICD - Implantable cardioverter-defibrillator
+Unspecified heart failure
+Heart failure NOS (Not Otherwise Specified)
+Non-specific congestive heart failure
+Heart decompensation
+Failing heart syndrome
+Pump failure
+Cardiogenic failure
+Heart insufficiency
+Impaired cardiac function
+Heart dysfunction
+486|
+Pneumonia
+Lung infection
+Pulmonary infection
+Respiratory infection
+Infection of the lungs
+Bacterial pneumonia
+Viral pneumonia
+Community-acquired pneumonia
+Hospital-acquired pneumonia
+Pneumonitis
+CAP - Community-acquired pneumonia
+HAP - Hospital-acquired pneumonia
+ICU - Intensive care unit
+CXR - Chest X-ray
+ABG - Arterial blood gas
+SIRS - Systemic inflammatory response syndrome
+BAL - Bronchoalveolar lavage
+COPD - Chronic obstructive pulmonary disease
+Sputum C&S - Sputum culture and sensitivity
+VAP - Ventilator-associated pneumonia
+Unspecified pneumonia
+Pneumonia NOS (Not Otherwise Specified)
+Non-specific pneumonia
+Unknown organism pneumonia
+Atypical pneumonia
+Pneumonia of uncertain etiology
+Pneumonia without identified pathogen
+Non-classified pneumonia
+Undetermined pneumonia
+Pneumonic infection
+496|
+Chronic airway obstruction
+Chronic obstructive lung disease
+Chronic obstructive pulmonary disease (COPD)
+Chronic bronchitis
+Emphysema
+Obstructive lung disease
+Chronic obstructive airway disease
+Chronic respiratory obstruction
+Chronic airflow limitation
+Irreversible airflow obstruction
+COPD - Chronic obstructive pulmonary disease
+FEV1 - Forced expiratory volume in one second
+FVC - Forced vital capacity
+AAT - Alpha-1 antitrypsin
+LTOT - Long-term oxygen therapy
+PFT - Pulmonary function test
+LABA - Long-acting beta2-agonist
+ICS - Inhaled corticosteroids
+SABA - Short-acting beta2-agonist
+PEEP - Positive end-expiratory pressure
+Non-specific chronic airway obstruction
+Airway obstruction NOS (Not Otherwise Specified)
+Non-classified chronic obstructive lung disease
+Chronic obstructive lung disorder
+Chronic obstructive respiratory disease
+Chronic airway limitation
+Chronic obstructive airway disorder
+Non-specific obstructive lung disease
+Non-classified chronic respiratory obstruction
+Irreversible chronic airway obstruction
+507.0|
+Aspiration pneumonitis
+Aspiration pneumonia
+Inhalation pneumonitis
+Chemical pneumonitis
+Aspiration lung injury
+Pulmonary aspiration
+Aspiration of gastric contents
+Aspiration syndrome
+Mendelson syndrome
+Aspiration-associated pneumonia
+ARDS - Acute respiratory distress syndrome
+CXR - Chest X-ray
+ABG - Arterial blood gas
+ICU - Intensive care unit
+ETT - Endotracheal tube
+NPO - Nothing by mouth
+HOB - Head of bed
+PEEP - Positive end-expiratory pressure
+VATS - Video-assisted thoracic surgery
+CPAP - Continuous positive airway pressure
+Aspiration of food or vomitus
+Inhalation of food or vomitus
+Food or vomitus pneumonitis
+Inhalation lung injury
+Aspiration-associated lung infection
+Gastric contents pneumonitis
+Chemical aspiration pneumonitis
+Aspiration pneumonia due to food or vomitus
+Pulmonary aspiration syndrome
+Mendelson's syndrome
+511.9|
+Pleural effusion
+Fluid in the pleural space
+Pleural fluid accumulation
+Pleural fluid collection
+Pleural fluid buildup
+Pleural fluid retention
+Pleural effusion of unknown etiology
+Non-specific pleural effusion
+Effusion in the pleural cavity
+Excess pleural fluid
+PE - Pleural effusion
+CXR - Chest X-ray
+CT - Computed tomography
+US - Ultrasound
+TAP - Thoracentesis or thoracocentesis
+MPE - Malignant pleural effusion
+LDH - Lactate dehydrogenase
+pH - Acidity/alkalinity level
+RBC - Red blood cell
+WBC - White blood cell
+Effusion in the pleural space
+Pleural effusion NOS (Not Otherwise Specified)
+Non-classified pleural effusion
+Unspecified pleural fluid accumulation
+Fluid buildup in the pleural cavity
+Unknown cause pleural effusion
+Pleural fluid retention without specified cause
+Non-specific pleural fluid collection
+Pleural fluid accumulation of uncertain etiology
+Pleural fluid retention of undetermined origin
+518.81|
+Acute respiratory failure
+Respiratory insufficiency
+Impaired gas exchange
+Respiratory distress
+Hypoxemic respiratory failure
+Hypercapnic respiratory failure
+Respiratory decompensation
+Ventilatory failure
+Acute ventilatory impairment
+Respiratory arrest
+ARF - Acute respiratory failure
+PaO2 - Arterial partial pressure of oxygen
+PaCO2 - Arterial partial pressure of carbon dioxide
+ABG - Arterial blood gas
+ICU - Intensive care unit
+NIV - Non-invasive ventilation
+BIPAP - Bilevel positive airway pressure
+CPAP - Continuous positive airway pressure
+PEEP - Positive end-expiratory pressure
+FiO2 - Fraction of inspired oxygen
+Impaired respiratory function
+Acute ventilatory failure
+Respiratory insufficiency NOS (Not Otherwise Specified)
+Non-specific respiratory failure
+Respiratory decompensation of unknown cause
+Acute respiratory decompensation
+Non-classified respiratory distress
+Respiratory impairment without specified etiology
+Acute hypoxemic respiratory failure
+Acute hypercapnic respiratory failure
+584.9|
+Acute kidney failure
+Acute renal failure
+Acute kidney injury
+Acute renal injury
+Acute kidney insufficiency
+Acute renal insufficiency
+Acute kidney dysfunction
+Acute renal dysfunction
+Acute oliguric renal failure
+Acute anuric renal failure
+AKF - Acute kidney failure
+ARF - Acute renal failure
+AKI - Acute kidney injury
+RRT - Renal replacement therapy
+BUN - Blood urea nitrogen
+Cr - Creatinine
+GFR - Glomerular filtration rate
+RRT - Renal replacement therapy
+HD - Hemodialysis
+PD - Peritoneal dialysis
+Acute renal failure NOS (Not Otherwise Specified)
+Non-specific acute kidney failure
+Non-classified acute renal failure
+Acute renal insufficiency of unknown cause
+Acute kidney dysfunction without specified etiology
+Acute renal injury of uncertain origin
+Unspecified acute kidney insufficiency
+Acute renal dysfunction NOS
+Acute oliguric renal failure without identified cause
+Unspecified acute anuric renal failure
+585.9|
+Chronic kidney disease
+Chronic renal disease
+Chronic kidney insufficiency
+Chronic renal insufficiency
+Chronic kidney dysfunction
+Chronic renal dysfunction
+Chronic renal failure
+Chronic kidney impairment
+Chronic renal impairment
+Chronic kidney damage
+CKD - Chronic kidney disease
+ESRD - End-stage renal disease
+GFR - Glomerular filtration rate
+RRT - Renal replacement therapy
+BUN - Blood urea nitrogen
+Cr - Creatinine
+HTN - Hypertension
+DM - Diabetes mellitus
+HD - Hemodialysis
+PD - Peritoneal dialysis
+Chronic renal disease NOS (Not Otherwise Specified)
+Non-specific chronic kidney disease
+Non-classified chronic renal disease
+Chronic renal insufficiency of unknown cause
+Chronic kidney dysfunction without specified etiology
+Chronic renal impairment NOS
+Unspecified chronic kidney damage
+Non-specific chronic renal failure
+Chronic kidney disease without identified etiology
+Unspecified chronic renal dysfunction
+530.81|
+Gastroesophageal reflux
+Acid reflux
+GERD - Gastroesophageal reflux disease
+Heartburn
+Reflux esophagitis
+Esophageal regurgitation
+Gastroesophageal regurgitation
+Acid indigestion
+Pyrosis
+Water brash
+GERD - Gastroesophageal reflux disease
+LES - Lower esophageal sphincter
+PPI - Proton pump inhibitor
+H2RA - Histamine-2 receptor antagonist
+UGI - Upper gastrointestinal
+EGD - Esophagogastroduodenoscopy
+pH - Acidity/alkalinity level
+LPR - Laryngopharyngeal reflux
+NERD - Non-erosive reflux disease
+BE - Barrett's esophagus
+Reflux esophagitis NOS (Not Otherwise Specified)
+Non-specific gastroesophageal reflux
+Non-classified acid reflux
+Gastroesophageal regurgitation without specified cause
+Non-specific esophageal regurgitation
+Esophageal reflux disease
+Non-erosive esophageal reflux
+Non-specific gastroesophageal regurgitation
+Acid indigestion disorder
+Non-classified pyrosis
+599.0|
+Urinary tract infection (UTI)
+UTI, site not specified
+Urethritis
+Cystitis
+Pyelonephritis
+Bacteriuria
+Asymptomatic bacteriuria
+Bladder infection
+Kidney infection
+Lower urinary tract infection
+UTI - Urinary tract infection
+UA - Urinalysis
+UC - Urine culture
+E. coli - Escherichia coli
+UTIs - Urinary tract infections
+RUTI - Recurrent urinary tract infection
+UPEC - Uropathogenic Escherichia coli
+ABX - Antibiotics
+WBC - White blood cell
+F/U - Follow-up
+Urinary tract infection NOS (Not Otherwise Specified)
+Non-specific urinary tract infection
+Unspecified UTI
+Urinary tract infection of unknown site
+UTI without specified location
+Non-classified urinary tract infection
+Unspecified urinary tract infection
+Urinary tract bacterial infection
+Non-specified bacteriuria
+Urinary system infection, site not specified
+V45.81|
+Aortocoronary bypass graft
+Coronary artery bypass graft (CABG)
+Coronary revascularization
+Bypass surgery
+Graft placement
+Vascular graft
+Coronary artery disease status post-bypass
+Aortocoronary graft patency
+Bypass conduit
+Bypass surgery follow-up
+CABG - Coronary artery bypass graft
+CAD - Coronary artery disease
+LAD - Left anterior descending artery
+RCA - Right coronary artery
+LIMA - Left internal mammary artery
+RIMA - Right internal mammary artery
+SVG - Saphenous vein graft
+IMA - Internal mammary artery
+LAD - Left anterior descending
+MI - Myocardial infarction
+Coronary artery bypass surgery status
+Coronary artery bypass graft status
+Bypass procedure status
+Post-CABG status
+Coronary revascularization status
+Graft patency status
+Aortocoronary graft status
+Post-bypass surgery condition
+Bypass graft follow-up
+Bypassed coronary arteries status
+995.92|
+Severe sepsis
+Severe septicemia
+Systemic inflammatory response syndrome (SIRS) due to infection
+Sepsis with organ dysfunction
+Septic shock
+Bacteremia with organ failure
+Septicemia with acute organ dysfunction
+Sepsis-associated organ failure
+Overwhelming infection with organ dysfunction
+Multi-organ dysfunction syndrome (MODS) due to sepsis
+SIRS - Systemic inflammatory response syndrome
+SOFA - Sequential Organ Failure Assessment
+MAP - Mean arterial pressure
+BP - Blood pressure
+HR - Heart rate
+RR - Respiratory rate
+WBC - White blood cell count
+ICU - Intensive care unit
+ABX - Antibiotics
+CVP - Central venous pressure
+Severe septic syndrome
+Severe systemic infection
+Overwhelming sepsis
+Septicemia with severe illness
+Septic syndrome with organ failure
+Severe bacteremia
+Severe blood infection
+Severe sepsis with shock
+Sepsis-induced organ dysfunction
+Severe septic response
+V58.61|
+Long-term anticoagulation therapy
+Chronic anticoagulant use
+Prolonged anticoagulant treatment
+Anticoagulation therapy
+Anticoagulant medication use
+Chronic antithrombotic therapy
+Long-term blood thinning treatment
+Warfarin therapy
+Anticoagulant prophylaxis
+Long-term antithrombotic therapy
+PT - Prothrombin time
+INR - International normalized ratio
+DVT - Deep vein thrombosis
+PE - Pulmonary embolism
+AFib - Atrial fibrillation
+VTE - Venous thromboembolism
+MI - Myocardial infarction
+ASA - Aspirin
+LMWH - Low-molecular-weight heparin
+NOAC - Non-vitamin K oral anticoagulant
+Chronic anticoagulant treatment
+Long-term use of blood thinners
+Anticoagulant medication therapy
+Prolonged antithrombotic use
+Current anticoagulation therapy
+Ongoing anticoagulant treatment
+Anticoagulant drug maintenance
+Continual antithrombotic therapy
+Chronic anticoagulant drug use
+Long-term anticoagulation regimen
+V15.82|
+History of tobacco use
+Smoking history
+Tobacco consumption history
+Tobacco use in the past
+Former tobacco user
+Smoking habit in the past
+Previous smoking behavior
+Tobacco addiction history
+Tobacco dependence in the past
+Former smoker
+SHS - Secondhand smoke
+COPD - Chronic obstructive pulmonary disease
+CAD - Coronary artery disease
+Hx - History
+CVD - Cardiovascular disease
+PVD - Peripheral vascular disease
+CT - Computed tomography
+XRT - Radiation therapy
+LC - Lung cancer
+PFT - Pulmonary function test
+Past tobacco use
+Former tobacco addiction
+History of smoking
+Prior tobacco consumption
+Non-current tobacco user
+Tobacco use in the past
+Previous smoking habit
+Tobacco dependency history
+Tobacco exposure in the past
+Previous smoker
+36.15|
+Internal mammary artery bypass
+Internal thoracic artery graft
+IMA-CABG - Internal mammary artery-coronary artery bypass graft
+IMA graft
+Single-vessel bypass surgery
+Open heart surgery
+Coronary artery bypass grafting (CABG)
+Cardiac revascularization
+Myocardial revascularization
+CABG using internal thoracic artery
+CABG - Coronary artery bypass grafting
+LAD - Left anterior descending artery
+RCA - Right coronary artery
+IMA - Internal mammary artery
+Graft - Coronary artery bypass graft
+LITA - Left internal mammary artery
+RITA - Right internal mammary artery
+SVG - Saphenous vein graft
+ECC - Extracorporeal circulation
+ICU - Intensive care unit
+Single IMA graft
+Single IMA bypass
+Single mammary artery bypass
+IMA-CABG procedure
+Single-vessel IMA bypass
+Single-vessel mammary artery bypass
+Internal thoracic artery bypass
+Single-vessel coronary artery bypass graft
+Single internal thoracic artery graft
+Single mammary artery-CABG procedure
+39.61|
+Cardiopulmonary bypass
+Extracorporeal circulation
+Heart-lung machine
+Cardiopulmonary bypass support
+ECMO - Extracorporeal membrane oxygenation
+Cardiopulmonary bypass machine
+ECC - Extracorporeal circulation
+Extracorporeal life support
+Open heart surgery with bypass
+Cardiopulmonary support
+CPB - Cardiopulmonary bypass
+ECC - Extracorporeal circulation
+ECMO - Extracorporeal membrane oxygenation
+HLM - Heart-lung machine
+CABG - Coronary artery bypass grafting
+MI - Myocardial infarction
+ICU - Intensive care unit
+OHS - Open heart surgery
+LAD - Left anterior descending artery
+RCA - Right coronary artery
+Extracorporeal circulation for open heart surgery
+Heart-lung bypass for cardiac surgery
+Cardiopulmonary support for open heart procedure
+Auxiliary extracorporeal circulation
+Cardiopulmonary bypass in open heart surgery
+ECC auxiliary to OHS
+Cardiopulmonary bypass support for cardiac procedure
+Extracorporeal life support during open heart surgery
+Bypass machine in cardiac surgery
+ECC for cardiopulmonary support
+38.91|
+Arterial line placement
+Arterial catheter insertion
+Arterial cannulation
+Invasive arterial monitoring
+Radial artery catheterization
+Femoral artery catheterization
+Arterial access procedure
+Continuous blood pressure monitoring
+Arterial line placement for monitoring
+Arterial catheterization for blood sampling
+ABP - Arterial blood pressure
+BP - Blood pressure
+HR - Heart rate
+SaO2 - Arterial oxygen saturation
+MAP - Mean arterial pressure
+CVP - Central venous pressure
+ICU - Intensive care unit
+ART - Arterial line
+A-line - Arterial line
+HOB - Head of bed
+Arterial line catheterization
+Invasive arterial catheter placement
+Arterial access catheterization
+Radial artery cannulation
+Femoral artery cannulation
+Arterial monitoring procedure
+Invasive blood pressure monitoring
+Arterial line insertion
+Arterial catheterization for monitoring
+Arterial line placement for blood pressure measurement
+38.93|
+Venous access
+Venous catheter insertion
+Central venous catheterization
+Peripheral venous catheterization
+Intravenous catheter placement
+Venous cannulation
+Venous line insertion
+Venous catheterization for fluid administration
+Venous catheterization for medication administration
+Venous catheterization for blood sampling
+IV - Intravenous
+CVC - Central venous catheter
+PIV - Peripheral intravenous
+PICC - Peripherally inserted central catheter
+DVT - Deep vein thrombosis
+CVP - Central venous pressure
+ICU - Intensive care unit
+HOB - Head of bed
+VAD - Vascular access device
+PICC - Peripherally inserted central catheter
+Venous line catheterization
+Venous access catheterization
+Venous catheter insertion
+Intravenous line placement
+Central venous access procedure
+Peripheral venous cannulation
+Venous catheterization NOS (Not Otherwise Specified)
+Venous catheterization of unspecified site
+Venous line placement for fluid administration
+Venous access for medication administration
+37.22|
+Left heart catheterization
+Coronary angiography
+Cardiac catheterization of the left side
+Left heart study
+Cardiac cath
+Left heart cath
+Coronary arteriography
+Left heart catheterization and angiography
+Left-sided cardiac catheterization
+Left heart ventriculography
+LHC - Left heart catheterization
+LCA - Left coronary artery
+RCA - Right coronary artery
+LV - Left ventricle
+LVEDP - Left ventricular end-diastolic pressure
+LVEDV - Left ventricular end-diastolic volume
+LVEF - Left ventricular ejection fraction
+CAD - Coronary artery disease
+MI - Myocardial infarction
+ICU - Intensive care unit
+Left-sided cardiac cath
+Left heart angiography
+Left heart catheterization procedure
+Left heart ventriculogram
+Left-sided cardiac catheterization
+Left heart arteriography
+Left heart study and angiography
+Left heart catheterization and ventriculography
+Left-sided cardiac catheterization with angiography
+Left coronary artery catheterization
+33.24|
+Bronchial biopsy
+Bronchoscopic biopsy
+Endobronchial biopsy
+Closed biopsy of the bronchus
+Bronchial tissue sampling
+Endoscopic lung biopsy
+Bronchial lesion biopsy
+Transbronchial biopsy
+Flexible bronchoscopy with biopsy
+Bronchial mucosal biopsy
+Bx - Biopsy
+BAL - Bronchoalveolar lavage
+CT - Computed tomography
+PET - Positron emission tomography
+EBUS - Endobronchial ultrasound
+EGD - Esophagogastroduodenoscopy
+H&E - Hematoxylin and eosin staining
+TBNA - Transbronchial needle aspiration
+FOB - Fiberoptic bronchoscopy
+COPD - Chronic obstructive pulmonary disease
+Endoscopic biopsy of the bronchus
+Bronchoscopic lung biopsy
+Closed bronchial biopsy
+Transbronchial biopsy of the bronchus
+Endobronchial tissue sampling
+Endoscopic sampling of bronchial lesion
+Bronchial biopsy NOS (Not Otherwise Specified)
+Flexible bronchoscopy with bronchial biopsy
+Closed endoscopic bronchial biopsy
+Bronchial mucosal sampling
+45.13|
+Small bowel endoscopy
+Small bowel enteroscopy
+Enteroscopy
+Balloon-assisted enteroscopy
+Capsule endoscopy
+Double-balloon enteroscopy
+Single-balloon enteroscopy
+Spiral enteroscopy
+Push enteroscopy
+Wireless capsule endoscopy
+SBE - Small bowel endoscopy
+EGD - Esophagogastroduodenoscopy
+PEG - Percutaneous endoscopic gastrostomy
+CTE - Computed tomography enterography
+GI - Gastrointestinal
+CD - Crohn's disease
+IBD - Inflammatory bowel disease
+EUS - Endoscopic ultrasound
+GIST - Gastrointestinal stromal tumor
+VCE - Video capsule endoscopy
+Other small bowel endoscopy
+Endoscopy of small intestine NOS (Not Otherwise Specified)
+Small intestinal endoscopy procedure
+Non-specific small bowel endoscopy
+Other small intestine endoscopy
+Small bowel enteroscopy NOS
+Other small bowel enteroscopy
+Non-specified enteroscopy
+Other endoscopic examination of small intestine
+Other diagnostic endoscopy of small bowel
+39.95|
+Hemodialysis
+Renal dialysis
+Dialysis treatment
+HD - Hemodialysis
+Renal replacement therapy
+Artificial kidney treatment
+Dialytic therapy
+Extracorporeal dialysis
+Renal support therapy
+Blood cleansing procedure
+HD - Hemodialysis
+ESRD - End-stage renal disease
+CKD - Chronic kidney disease
+AVF - Arteriovenous fistula
+AV graft - Arteriovenous graft
+PD - Peritoneal dialysis
+Kt/V - Dialysis dose parameter
+BFR - Blood flow rate
+Vascular access - VA
+IHD - Intermittent hemodialysis
+Renal replacement treatment
+Kidney dialysis
+Artificial kidney therapy
+Dialysis procedure
+Renal cleansing therapy
+Blood purification treatment
+Renal failure dialysis
+Hemodialytic therapy
+Kidney machine treatment
+Blood filter therapy
+88.56|
+Two-catheter coronary arteriography
+Bicatheter coronary angiography
+Dual-catheter coronary arteriography
+Two-catheter coronary angiogram
+Dual-catheter coronary angiogram
+Coronary arteriogram with two catheters
+Coronary artery imaging with two catheters
+Coronary artery study using two catheters
+Coronary angiography with simultaneous catheterization
+Two-catheter approach for coronary imaging
+Two-catheter coronary arteriography
+Bicatheter coronary angiography
+Dual-catheter coronary arteriography
+Two-catheter coronary angiogram
+Dual-catheter coronary angiogram
+Coronary arteriogram with two catheters
+Coronary artery imaging with two catheters
+Coronary artery study using two catheters
+Coronary angiography with simultaneous catheterization
+Two-catheter approach for coronary imaging
+Bicath coronary arteriography
+Two-cath coronary angiography
+Dual-cath coronary arteriography
+Bicatheter coronary angiogram
+Dual-catheter coronary angiogram
+Coronary arteriogram with two catheters
+Dual-catheter coronary artery imaging
+Dual-catheter coronary artery study
+Coronary angiography with dual catheterization
+Two-catheter approach for coronary artery imaging
+88.72|
+Echocardiogram
+Transthoracic echocardiogram
+Cardiac ultrasound
+Cardiac sonography
+Doppler echocardiogram
+Two-dimensional echocardiogram
+M-mode echocardiogram
+Echocardiographic study
+Cardiac imaging with ultrasound
+Heart ultrasound examination
+Echo - Echocardiogram
+TTE - Transthoracic echocardiogram
+TEE - Transesophageal echocardiogram
+CW - Continuous wave
+PW - Pulsed wave
+LV - Left ventricle
+RV - Right ventricle
+LA - Left atrium
+RA - Right atrium
+LVEF - Left ventricular ejection fraction
+Cardiac echo
+Ultrasound of the heart
+Heart sonogram
+Cardiac sonogram
+Echocardiography
+Cardiac ultrasound imaging
+Cardiac sonography
+Heart ultrasound scan
+Heart ultrasound imaging
+Heart ultrasound test
+93.90|
+Non-invasive ventilation
+NIV - Non-invasive ventilation
+Bi-level positive airway pressure (BiPAP)
+Continuous positive airway pressure (CPAP)
+Ventilatory support without intubation
+Mask ventilation
+Non-invasive positive pressure ventilation
+Non-invasive respiratory support
+Non-invasive ventilation therapy
+Non-invasive ventilatory assistance
+NIV - Non-invasive ventilation
+BiPAP - Bi-level positive airway pressure
+CPAP - Continuous positive airway pressure
+ICU - Intensive care unit
+ARF - Acute respiratory failure
+BVM - Bag-valve-mask
+PEEP - Positive end-expiratory pressure
+FiO2 - Fraction of inspired oxygen
+SpO2 - Peripheral capillary oxygen saturation
+PAP - Positive airway pressure
+Non-invasive respiratory support
+Non-invasive positive pressure ventilation
+Non-invasive ventilatory support
+Non-invasive ventilatory assistance
+Mask ventilation without intubation
+Non-invasive ventilation therapy
+Non-invasive ventilation NOS (Not Otherwise Specified)
+Non-invasive positive pressure ventilation NOS
+Non-invasive respiratory support without intubation
+Non-invasive positive pressure support
+96.04|
+Endotracheal intubation
+Tracheal intubation
+Orotracheal intubation
+Nasotracheal intubation
+Endotracheal tube placement
+Airway management with endotracheal tube
+Endotracheal tube insertion procedure
+ET tube insertion
+ET intubation
+Tracheal intubation for mechanical ventilation
+ETT - Endotracheal tube
+ETI - Endotracheal intubation
+RSI - Rapid sequence intubation
+PEEP - Positive end-expiratory pressure
+FiO2 - Fraction of inspired oxygen
+ETCO2 - End-tidal carbon dioxide
+CVC - Central venous catheter
+ABG - Arterial blood gas
+ICU - Intensive care unit
+APLS - Advanced pediatric life support
+Tracheal tube insertion
+Endotracheal airway placement
+Orotracheal tube insertion
+Nasotracheal tube placement
+Endotracheal intubation procedure
+Airway intubation with endotracheal tube
+Endotracheal tube placement NOS (Not Otherwise Specified)
+Tracheal intubation for mechanical ventilation
+Endotracheal tube insertion for airway management
+Tracheal intubation using endotracheal tube
+96.6|
+Enteral nutrition
+Tube feeding
+Nutritional support
+Enteral feeding
+Enteral tube feeding
+Enteral infusion
+Enteral nutrition therapy
+Enteral nutrition administration
+Tube feeding administration
+Enteral nutrition supplementation
+EN - Enteral nutrition
+TF - Tube feeding
+NGT - Nasogastric tube
+G-tube - Gastrostomy tube
+J-tube - Jejunostomy tube
+PEG - Percutaneous endoscopic gastrostomy
+TPN - Total parenteral nutrition
+HEN - Home enteral nutrition
+BID - Twice daily
+QID - Four times daily
+Enteral feeding of concentrated nutritional substances
+Infusion of concentrated nutritional substances into the GI tract
+Tube feeding with concentrated nutritional substances
+Enteral infusion of high-calorie substances
+Enteral administration of concentrated nutrients
+Enteral supplementation with concentrated nutritional substances
+Concentrated nutritional infusion into the GI tract
+Tube feeding with concentrated formula
+Enteral nutrition with concentrated feeds
+Infusion of high-energy nutritional substances
+96.71|
+Invasive mechanical ventilation
+Endotracheal ventilation
+Intensive care unit ventilation
+Continuous positive pressure ventilation
+Invasive positive pressure ventilation
+Prolonged mechanical ventilation
+Mechanical ventilatory support
+Invasive respiratory support
+Invasive ventilatory assistance
+Invasive ventilation for acute respiratory failure
+IMV - Invasive mechanical ventilation
+ICU - Intensive care unit
+ETT - Endotracheal tube
+PEEP - Positive end-expiratory pressure
+FiO2 - Fraction of inspired oxygen
+ARDS - Acute respiratory distress syndrome
+ABG - Arterial blood gas
+Vt - Tidal volume
+RR - Respiratory rate
+MAP - Mean arterial pressure
+Invasive ventilation for less than 96 hours
+Short-term invasive mechanical ventilation
+Continuous endotracheal ventilation
+Intensive care unit ventilation <96 hours
+Invasive positive pressure ventilation <96 hours
+Invasive respiratory support for <96 hours
+Mechanical ventilatory assistance for <96 hours
+Invasive ventilatory support for <96 hours
+Invasive mechanical ventilation <96 hours
+Invasive ventilation <96 consecutive hours
+96.72|
+Prolonged invasive mechanical ventilation
+Long-term invasive mechanical ventilation
+Extended mechanical ventilation
+Continuous positive pressure ventilation (CPPV)
+Invasive positive pressure ventilation (IPPV)
+Prolonged ventilatory support
+Long-term ventilatory assistance
+Prolonged respiratory support
+Prolonged endotracheal ventilation
+Prolonged intubation and mechanical ventilation
+IMV - Invasive mechanical ventilation
+ICU - Intensive care unit
+ETT - Endotracheal tube
+PEEP - Positive end-expiratory pressure
+FiO2 - Fraction of inspired oxygen
+ARDS - Acute respiratory distress syndrome
+ABG - Arterial blood gas
+Vt - Tidal volume
+RR - Respiratory rate
+MAP - Mean arterial pressure
+Invasive ventilation for 96 consecutive hours or more
+Prolonged invasive mechanical ventilation
+Long-term invasive mechanical ventilation
+Continuous positive pressure ventilation ≥96 hours
+Invasive positive pressure ventilation ≥96 hours
+Extended respiratory support
+Extended endotracheal ventilation
+Prolonged mechanical ventilatory support
+Long-term ventilatory assistance ≥96 hours
+Prolonged intubation and ventilation
+99.04|
+Packed red blood cell transfusion
+Red blood cell transfusion
+Blood transfusion
+Erythrocyte transfusion
+RBC transfusion
+PRBC transfusion
+Red cell concentrate transfusion
+Red blood cell replacement
+Blood product transfusion
+Erythrocyte replacement therapy
+PRBC - Packed red blood cells
+RBC - Red blood cells
+Hb - Hemoglobin
+Hct - Hematocrit
+Rh - Rhesus factor
+ABO - Blood group system
+ISBT - International Society of Blood Transfusion
+HLA - Human leukocyte antigen
+CBC - Complete blood count
+FFP - Fresh frozen plasma
+Packed cell transfusion
+Red cell transfusion
+Blood product administration
+Red blood cell replacement therapy
+Erythrocyte transfusion
+RBC replacement
+Blood cell concentrate transfusion
+Erythrocyte concentrate transfusion
+PRBC administration
+Blood component transfusion
+99.15|
+Parenteral nutrition
+Total parenteral nutrition (TPN)
+Intravenous nutrition
+IV nutrition
+Hyperalimentation
+Parenteral feeding
+Total nutrient admixture (TNA)
+Parenteral nutrition therapy
+Parenteral nutrition support
+Parenteral nutrition infusion
+PN - Parenteral nutrition
+TPN - Total parenteral nutrition
+IV - Intravenous
+PPN - Peripheral parenteral nutrition
+CVC - Central venous catheter
+PICC - Peripherally inserted central catheter
+Dextrose - D5W (Dextrose 5% in water)
+Amino acids - AA
+Lipids - Fat emulsion
+Vitamins - Vits
+Intravenous infusion of concentrated nutritional substances
+Parenteral administration of concentrated nutrients
+Total parenteral nutrition infusion
+Hyperalimentation infusion
+Parenteral feeding of concentrated nutrients
+Parenteral nutrition support infusion
+IV nutrition therapy
+Intravenous nutrition infusion
+Parenteral nutrient infusion
+Parenteral nutrition solution administration
